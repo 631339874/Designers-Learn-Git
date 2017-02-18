@@ -249,8 +249,8 @@ Rayston92       产品经理
 xczswt1993      想要學習網站開發的入門者
 zewait          无业流民
 explosic4  什么都不会,2333
-shren           平面爱好者
-manglekuo       留學生
+shren           平面爱好者
+omanglekuo       留學生
 manglekuo	留學生 //from clone
 小明            同学
 shmilychomi     just for a study
@@ -271,7 +271,7 @@ sufei           小菜一碟
 ns              学生
 Grace           留学生
 nazi		Developer
-pinkyw          front-end
+opinkyw          front-end
 Bin             Umich
 kiddy           ui
 Tong Shen       初学者
@@ -281,8 +281,7 @@ kendydeng       强奸犯
 kendydeng       纵火犯
 Tadayima        有强迫症的码农++
 xiao            初学者
-Yu              学习学习
-ls		本地
+Yu              学习学习ls		本地
 Jeason          吃货-胖子
 dean            设计师
 luck            未来的领军人物
@@ -292,8 +291,7 @@ AnndyBear       转交互的视觉设计师
 camac           just a person,plz @.
 zhyc            前端菜鸟
 hydrowing       老透明 =ω=
-ruihan-rey      设计师
-PuRonglong      前端工程师
+ruihan-rey      设计师mPuRonglong      前端工程师
 Sherry          交互设计师
 felixzhou       开始学编程的产品人+设计，立志全栈
 Leon            新入代码学生
@@ -341,4 +339,5 @@ GZIvan          搬砖的
 rimiHS          程序员
 rimiXK		程序员
 tony            学生
-RossLing        hello,everyone!
+RossLing        hello,everyone!
+morning         ligong
